@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-phonebook/static/css/main.dde318e7.chunk.css",
-    "main.js": "/goit-react-hw-05-phonebook/static/js/main.2a70dcfb.chunk.js",
-    "main.js.map": "/goit-react-hw-05-phonebook/static/js/main.2a70dcfb.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-05-phonebook/static/js/runtime-main.3e27e864.js",
-    "runtime-main.js.map": "/goit-react-hw-05-phonebook/static/js/runtime-main.3e27e864.js.map",
-    "static/js/2.07394a58.chunk.js": "/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js",
-    "static/js/2.07394a58.chunk.js.map": "/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js.map",
-    "index.html": "/goit-react-hw-05-phonebook/index.html",
-    "precache-manifest.9818688e3737f726499209661085f6d9.js": "/goit-react-hw-05-phonebook/precache-manifest.9818688e3737f726499209661085f6d9.js",
-    "service-worker.js": "/goit-react-hw-05-phonebook/service-worker.js",
-    "static/css/main.dde318e7.chunk.css.map": "/goit-react-hw-05-phonebook/static/css/main.dde318e7.chunk.css.map",
-    "static/js/2.07394a58.chunk.js.LICENSE.txt": "/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js.LICENSE.txt"
+    "main.css": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/css/main.dde318e7.chunk.css",
+    "main.js": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/main.2a70dcfb.chunk.js",
+    "main.js.map": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/main.2a70dcfb.chunk.js.map",
+    "runtime-main.js": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/runtime-main.b6d7bac9.js",
+    "runtime-main.js.map": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/runtime-main.b6d7bac9.js.map",
+    "static/js/2.07394a58.chunk.js": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js",
+    "static/js/2.07394a58.chunk.js.map": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js.map",
+    "index.html": "/Juliovsky.github.io/goit-react-hw-05-phonebook/index.html",
+    "precache-manifest.34edfb69c18408c56d1e2db2769ea9ef.js": "/Juliovsky.github.io/goit-react-hw-05-phonebook/precache-manifest.34edfb69c18408c56d1e2db2769ea9ef.js",
+    "service-worker.js": "/Juliovsky.github.io/goit-react-hw-05-phonebook/service-worker.js",
+    "static/css/main.dde318e7.chunk.css.map": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/css/main.dde318e7.chunk.css.map",
+    "static/js/2.07394a58.chunk.js.LICENSE.txt": "/Juliovsky.github.io/goit-react-hw-05-phonebook/static/js/2.07394a58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e27e864.js",
+    "static/js/runtime-main.b6d7bac9.js",
     "static/js/2.07394a58.chunk.js",
     "static/css/main.dde318e7.chunk.css",
     "static/js/main.2a70dcfb.chunk.js"
